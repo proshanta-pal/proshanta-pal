@@ -1,7 +1,7 @@
 <!-- title -->
 <div align="center">
   <h1 style="display: inline-block">Hi 👋, I'm Proshanta Pal</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cascadia+mono&weight=600&size=23&pause=1000&width=435&lines=Learn+Build+Break+Fix+Repeat;Passionate+Full+Stack+Developer;Building+software+for+the+Web;Exploring+AI/ML+and+Data+Science" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cascadia+mono&weight=500&size=20&duration=3000&pause=500&center=true&vCenter=true&width=400&height=25&lines=Learn+Build+Break+Fix+Repeat;Passionate+Full+Stack+Developer;Building+software+for+the+Web;Exploring+AI/ML+and+Data+Science" alt="Typing SVG" /></a>
 </div>
 
 # 👨‍💻 About Me:
@@ -43,5 +43,8 @@
 ## GitHub Repository Streak:
 ![GitHub Repository Streak](https://streak-stats.demolab.com/?user=proshanta-pal&theme=swift&hide_border=true)<br/>
 
-## My Most Used Languages:
-![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=proshanta-pal&theme=swift&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/proshanta-pal/proshanta-pal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/proshanta-pal/proshanta-pal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/proshanta-pal/proshanta-pal/output/github-snake.svg" />
+</picture>
