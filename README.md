@@ -43,8 +43,19 @@
 ## GitHub Repository Streak:
 ![GitHub Repository Streak](https://streak-stats.demolab.com/?user=proshanta-pal&theme=swift&hide_border=true)<br/>
 
+
+## 🐍 GitHub Contribution Activity
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/proshanta-pal/proshanta-pal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/proshanta-pal/proshanta-pal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/proshanta-pal/proshanta-pal/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/proshanta-pal/proshanta-pal/output/github-snake-dark-custom.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/proshanta-pal/proshanta-pal/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/proshanta-pal/proshanta-pal/output/github-snake.svg"
+  />
 </picture>
