@@ -12,28 +12,28 @@
 
 <div align="center">
   <h3>🌐 Connect with me:</h3> 
-  <a href="https://linkedin.com/in/proshanta-pal" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
-  <a href="https://github.com/proshanta-pal" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="touhidcodes" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/proshanta-pal" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="linkedin"/></a>
+  <a href="https://github.com/proshanta-pal" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" alt="github" /></a>
 </div>
 
 # 💻 Tech Stack
-## Languages:
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,js,ts,python)
+### Languages:
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,js,python)
 
-## Frontend:
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,gsap,vite,react,nextjs)
+### Frontend Development:
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,typescript,gsap,react,nextjs)
 
-## Backend:
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,fastapi)
+### Backend Development & Databases:
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mongodb,fastapi)
 
-## Data Science and AI/ML:
+### Data Science and AI/ML:
 ![Data Science and AI/ML](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,scikitlearn)
 
-## Tools:
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,jupyter,git,github,linux,cursor,notion)
+### Tools:
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,linux,cursor,vscode,jupyter)
 
-## Deployment Platform:
-![Deployment Platform](https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify)
+### Deployment Platform:
+![Deployment Platform](https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,render)
 
 # 📊 GitHub Stats and Analysis:
 
